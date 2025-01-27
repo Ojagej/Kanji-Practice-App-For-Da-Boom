@@ -1,0 +1,15 @@
+{
+  "name": "kanji-practice-app",
+  "version": "1.0.0",
+  "description": "A kanji practice application with accurate stroke order diagrams",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "npm install"
+  },
+  "dependencies": {
+    "svg.js": "^2.7.1",
+    "bezier-js": "^6.1.4",
+    "express": "^4.18.2"
+  }
+}
