@@ -10,6 +10,6 @@ An interactive web application for practicing Japanese kanji characters. Feature
 
 ## Usage
 
-Visit the live site at: https://ojagej.github.io/windsurf-project/
+Visit the live site at: https://ojagej.github.io/Kanji-Practice-App-For-Da-Boom/
 
 Or run locally by opening `index.html` in your web browser.
